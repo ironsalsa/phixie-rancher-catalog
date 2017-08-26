@@ -1,0 +1,7 @@
+name: OTB Wordpress Dev
+description: It's Wordpress, and requires Secrets to be defined beforehand
+version: 1
+category: OTB
+maintainer: Phixie.io
+license: MIT
+projectURL: http://www.phixie.io
